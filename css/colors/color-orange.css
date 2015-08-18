@@ -1,0 +1,81 @@
+input.submit, input.submit:focus, input.submit:active {
+	background: #df6f1d;
+}
+a { 
+	color: #df6f1d;
+}
+#primary-menu ul li a.current {
+	background-color: #df6f1d;
+}
+.fixed #primary-menu ul li a.current {	background-color: #df6f1d; }
+#footer a:hover {
+	color: #df6f1d;
+}
+.tweets a:hover , #footer .tweets a:hover, .tweets .tweet_time a:hover, #footer .tweets .tweet_time a:hover {
+	color: #df6f1d;
+}
+.photostream a:hover, #footer .photostream a:hover {
+	background-color: #df6f1d;
+	border: 1px solid #df6f1d;
+}	
+.team-member-info .social-personal li a:hover {
+	background-color: #df6f1d;
+}
+.skills-graph li span {
+	background-color: #df6f1d;
+}
+.services div:hover, .services div:hover a {
+	background-color:#df6f1d; 
+}
+.grey:hover { background-color:#df6f1d; }
+.highlight1 {
+	background-color: #df6f1d;
+}
+.item-info-overlay {
+	background-color: #df6f1d;
+}
+.hexagon .item-info-overlay {
+    background-color: #df6f1d;
+}
+.circle .item-info-overlay {
+    background-color: #df6f1d;
+}
+.triangle .item-info-overlay {
+    background-color: #df6f1d;
+}
+ul.item-nav li:hover {
+	background-color: #df6f1d;
+}
+.contact-success {
+	background-color: #df6f1d;
+}
+.form .contact-error {
+    color: #df6f1d;
+}
+
+.flex-direction-nav li a:hover { background-color: #df6f1d; }
+
+.widget a:hover {
+	color: #df6f1d;
+}
+.widget ul#recentcomments a.author:hover {
+	color: #df6f1d;
+}
+.post-title h2.title a:hover {
+	color: #df6f1d;
+}
+.post-meta a:hover {
+	color: #df6f1d;
+}
+.post-info div.date {
+	background-color: #df6f1d;
+}
+.comment .author a:hover {
+	color: #df6f1d;
+}
+.comment .comment-meta .reply:hover {
+	background-color:#df6f1d; 
+}
+.wp-pagenavi span.current {
+	background-color: #df6f1d;
+}
